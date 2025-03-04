@@ -3,12 +3,6 @@
 A modern project management SaaS application built with Next.js and Tailwind CSS.
 
 <div align="center">
-  <img src="public/preview.png" alt="TaskFlow Preview" width="100%" />
-</div>
-
-## Screenshots
-
-<div align="center">
   <img src="public/preview1.png" alt="TaskFlow Screenshot 1" width="100%" style="margin-bottom: 20px;" />
   <img src="public/preview2.png" alt="TaskFlow Screenshot 2" width="100%" style="margin-bottom: 20px;" />
   <img src="public/preview3.png" alt="TaskFlow Screenshot 3" width="100%" style="margin-bottom: 20px;" />
